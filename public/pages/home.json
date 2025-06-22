@@ -1,271 +1,224 @@
-
 {
-  "meta": {
-    "title": "Home - Khodiyar Brass Industries",
-    "description": "Leading manufacturer of precision brass components with over three decades of excellence in engineering and manufacturing."
-  },
   "hero": {
     "type": "carousel",
-    "enabled": true,
     "slides": [
       {
-        "title": "Precision Engineering Excellence",
-        "subtitle": "Manufacturing superior brass components since 1985",
-        "backgroundImage": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=1920&h=1080&fit=crop&auto=format",
         "cta": {
-          "primary": "View Products",
+          "primary": "View Door Parts",
           "secondary": "Learn More",
           "primaryAction": "/products",
           "secondaryAction": "/about"
-        }
+        },
+        "title": "Precision Manufacturing of Superior Door Components",
+        "subtitle": "Delivering Quality Door Parts with 7 Years of Expert Craftsmanship",
+        "backgroundImage": "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e"
       },
       {
-        "title": "Advanced Manufacturing Solutions",
-        "subtitle": "State-of-the-art CNC machining and quality assurance",
-        "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&h=1080&fit=crop&auto=format",
         "cta": {
-          "primary": "Our Services",
+          "primary": "Explore Custom Solutions",
           "secondary": "Contact Us",
           "primaryAction": "/services",
           "secondaryAction": "/contact"
-        }
+        },
+        "title": "Advanced Laser Writing and Customized Manufacturing Solutions",
+        "subtitle": "Innovative Technology Meets Precision Manufacturing Techniques",
+        "backgroundImage": "https://images.unsplash.com/photo-1727292485858-588c7652ad69"
       },
       {
-        "title": "Your Trusted Brass Partner",
-        "subtitle": "Reliable, precise, and certified manufacturing solutions",
-        "backgroundImage": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1920&h=1080&fit=crop&auto=format",
         "cta": {
-          "primary": "Get Quote",
-          "secondary": "Schedule Visit",
+          "primary": "Start Your Project",
+          "secondary": "Request Quote",
           "primaryAction": "/contact",
-          "secondaryAction": "tel:+91-281-567-8900"
-        }
+          "secondaryAction": "tel:+918888888888"
+        },
+        "title": "Trusted Manufacturing Partner for Door and Window Components",
+        "subtitle": "Reliable Solutions with Comprehensive Quality Assurance Standards",
+        "backgroundImage": "https://images.unsplash.com/photo-1690613139174-5074641eaa0b"
       }
-    ]
+    ],
+    "enabled": true
+  },
+  "meta": {
+    "title": "RK Enterprise - Door Parts Manufacturing | Precision Solutions",
+    "description": "Leading manufacturer of custom door parts and components with advanced laser writing and precision manufacturing techniques."
   },
   "sections": {
-    "whyChooseUs": {
-      "type": "why-choose-us",
-      "enabled": true,
-      "title": "Why Choose Khodiyar Brass Industries",
-      "subtitle": "Excellence in every aspect of manufacturing",
-      "items": [
-        {
-          "id": "quality",
-          "icon": "award",
-          "title": "Unmatched Quality",
-          "description": "ISO 9001:2015 certified manufacturing with rigorous quality control at every stage of production."
-        },
-        {
-          "id": "experience",
-          "icon": "clock",
-          "title": "35+ Years Experience",
-          "description": "Over three decades of expertise in precision brass component manufacturing and engineering solutions."
-        },
-        {
-          "id": "technology",
-          "icon": "cog",
-          "title": "Advanced Technology",
-          "description": "State-of-the-art CNC machining centers and automated production systems for superior precision."
-        }
-      ]
-    },
-    "aboutusintro": {
-      "type": "about-us-intro",
-      "enabled": true,
-      "title": "About Khodiyar Brass Industries",
-      "subtitle": "Leaders in precision brass manufacturing",
-      "description": "Established in 1985, Khodiyar Brass Industries has grown to become one of India's leading manufacturers of precision brass components. We specialize in producing high-quality brass fittings, valves, electrical components, and custom machined parts for diverse industrial applications worldwide.",
-      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
-      "highlights": [
-        "ISO 9001:2015 Certified",
-        "500+ Product Variants Available",
-        "50+ Countries Served",
-        "24/7 Technical Support"
-      ]
-    },
-    "stats": {
-      "type": "stats",
-      "enabled": true,
-      "title": "Our Manufacturing Achievements",
-      "subtitle": "Numbers that speak for our excellence",
-      "items": [
-        { "number": "35+", "label": "Years Experience" },
-        { "number": "500+", "label": "Product Variants" },
-        { "number": "50+", "label": "Countries Served" },
-        { "number": "10000+", "label": "Satisfied Clients" }
-      ]
-    },
-    "expertise": {
-      "type": "expertise",
-      "enabled": true,
-      "title": "Our Industry Expertise",
-      "subtitle": "Serving diverse industries with precision brass components",
-      "description": "Our brass components are trusted across multiple industries for their durability, precision, and reliability.",
-      "sectors": [
-        {
-          "id": "automotive",
-          "name": "Automotive Industry",
-          "description": "High-precision brass components for automotive applications including fuel systems and engine parts.",
-          "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Engine Components",
-            "Fuel Systems",
-            "Brake Fuel",
-            "Transmission Parts",
-            "Cooling Systems"
-          ]
-        },
-        {
-          "id": "electrical",
-          "name": "Electrical Industry",
-          "description": "Conductive brass components for electrical and electronic applications.",
-          "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Electrical Contacts",
-            "Terminal Connectors",
-            "Switch Components",
-            "Circuit Breakers",
-            "Grounding Components"
-          ]
-        },
-        {
-          "id": "construction",
-          "name": "Construction Industry",
-          "description": "Durable brass fittings and hardware for construction and plumbing applications.",
-          "image": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Plumbing Fittings",
-            "Door Hardware",
-            "Window Fittings",
-            "Structural Components",
-            "Decorative Elements"
-          ]
-        },
-        {
-          "id": "marine",
-          "name": "Marine Industry",
-          "description": "Corrosion-resistant brass components for marine and offshore applications.",
-          "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Propeller Shafts",
-            "Seawater Valves",
-            "Marine Fittings",
-            "Navigation Equipment",
-            "Hull Components"
-          ]
-        },
-        {
-          "id": "aerospace",
-          "name": "Aerospace Industry",
-          "description": "High-performance brass components meeting aerospace industry standards.",
-          "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Precision Components",
-            "Hydraulic Fittings",
-            "Fuel System",
-            "Avionics Navigation",
-            "Control Mechanisms"
-          ]
-        },
-        {
-          "id": "industrial",
-          "name": "Heavy Machinery",
-          "description": "Robust brass components for industrial machinery and equipment applications.",
-          "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Machine Components",
-            "Hydraulic Fittings",
-            "Valve Bodies",
-            "Pressure Vessels",
-            "Heat Exchangers"
-          ]
-        },
-        {
-          "id": "hvac",
-          "name": "HVAC Systems",
-          "description": "Brass fittings and components for heating, ventilation, and air conditioning systems.",
-          "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Pipe Fittings",
-            "Valve Components",
-            "Manifold Parts",
-            "Control Systems",
-            "Refrigeration Components"
-          ]
-        },
-        {
-          "id": "oil-gas",
-          "name": "Oil & Gas",
-          "description": "High-pressure brass components for oil and gas exploration and processing.",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Drilling Equipment",
-            "Pipeline Fittings",
-            "Pressure Gauges",
-            "Safety Valves",
-            "Processing Equipment"
-          ]
-        }
-      ]
-    },
-    "testimonials": {
-      "type": "testimonials",
-      "enabled": true,
-      "title": "What Our Clients Say",
-      "subtitle": "Trusted by industry leaders worldwide",
-      "items": [
-        {
-          "id": "client-1",
-          "name": "Rajesh Kumar",
-          "company": "Gujarat Engineering Ltd",
-          "designation": "Procurement Manager",
-          "content": "Khodiyar Brass Industries has been our trusted partner for over 15 years. Their quality consistency and timely delivery have been exceptional.",
-          "rating": 5,
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80"
-        },
-        {
-          "id": "client-2",
-          "name": "Sarah Johnson",
-          "company": "International Industrial Solutions",
-          "designation": "Supply Chain Director",
-          "content": "The precision and quality of their brass components have exceeded our expectations. Highly recommended for critical applications.",
-          "rating": 5,
-          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b1a7?auto=format&fit=crop&w=150&q=80"
-        }
-      ]
-    },
-    "faqs": {
-      "type": "faqs",
-      "enabled": true,
-      "title": "Frequently Asked Questions",
-      "subtitle": "Common questions about our products and services",
-      "items": [
-        {
-          "id": "minimum-order",
-          "question": "What is the minimum order quantity?",
-          "answer": "Our minimum order quantity varies by product type. For standard brass fittings, it's typically 100 pieces, while custom components may have different requirements based on complexity."
-        },
-        {
-          "id": "lead-time",
-          "question": "What are the typical lead times?",
-          "answer": "Standard products: 2-3 weeks, Custom components: 4-6 weeks, depending on complexity and quantity. We also offer expedited services for urgent requirements."
-        }
-      ]
-    },
     "cta": {
       "type": "cta",
+      "title": "Ready to Get Started?",
       "enabled": true,
-      "title": "Ready to Experience Precision Excellence?",
-      "subtitle": "Join thousands of satisfied clients who trust Khodiyar Brass Industries for their precision brass component needs.",
+      "subtitle": "Transform your project with our expert door component manufacturing solutions",
       "primaryCTA": {
-        "text": "Explore Our Products",
+        "text": "View Products",
         "action": "/products"
       },
       "secondaryCTA": {
         "text": "Contact Now",
         "action": "/contact"
       }
+    },
+    "faqs": {
+      "type": "faqs",
+      "items": [
+        {
+          "id": "minimum-order",
+          "answer": "We accommodate orders from small batches to large-scale production, with flexible minimum order quantities tailored to your specific needs.",
+          "question": "What is your minimum order quantity?"
+        },
+        {
+          "id": "lead-time",
+          "answer": "Standard production times range from 7-21 days depending on complexity and order volume, with expedited options available for urgent requirements.",
+          "question": "What are your typical production lead times?"
+        },
+        {
+          "id": "quality",
+          "answer": "We maintain rigorous quality control processes, including ISO-standard inspections, precision measurements, and comprehensive testing for every component.",
+          "question": "How do you ensure product quality?"
+        },
+        {
+          "id": "customization",
+          "answer": "Absolutely! We specialize in custom laser writing and tailored manufacturing solutions to meet unique client specifications.",
+          "question": "Can you handle custom design requirements?"
+        },
+        {
+          "id": "materials",
+          "answer": "We work with various materials including aluminum, steel, brass, and specialized alloys for door and window component manufacturing.",
+          "question": "What materials do you work with?"
+        }
+      ],
+      "title": "Frequently Asked Questions",
+      "enabled": true,
+      "subtitle": "Get quick answers about our manufacturing capabilities and services"
+    },
+    "stats": {
+      "type": "stats",
+      "items": [
+        {
+          "label": "Years Experience",
+          "number": "7+"
+        },
+        {
+          "label": "Product Variants",
+          "number": "250+"
+        },
+        {
+          "label": "States Served",
+          "number": "15+"
+        },
+        {
+          "label": "Satisfied Clients",
+          "number": "500+"
+        }
+      ],
+      "title": "Our Achievements",
+      "enabled": true,
+      "subtitle": "Delivering excellence through consistent performance and innovation"
+    },
+    "expertise": {
+      "type": "expertise",
+      "title": "Industries We Serve",
+      "enabled": true,
+      "sectors": [
+        {
+          "id": "construction",
+          "name": "Construction",
+          "image": "https://images.unsplash.com/photo-1534275288878-f0a62d63dad9",
+          "description": "Specialized door and window component solutions for residential and commercial construction projects",
+          "applications": [
+            "Architectural Door Frames",
+            "Window Mounting Brackets",
+            "Precision Alignment Components",
+            "Structural Connectors"
+          ]
+        },
+        {
+          "id": "automotive",
+          "name": "Automotive",
+          "image": "https://images.unsplash.com/photo-1511407397940-d8bcec3f9dc7",
+          "description": "High-precision manufacturing for automotive door and window system components",
+          "applications": [
+            "Door Hinge Mechanisms",
+            "Window Seal Brackets",
+            "Mounting Plates",
+            "Precision Alignment Systems"
+          ]
+        }
+      ],
+      "subtitle": "Comprehensive manufacturing solutions across multiple sectors",
+      "description": "RK Enterprise delivers specialized manufacturing solutions with precision engineering and advanced technological capabilities across diverse industrial sectors."
+    },
+    "whyChooseUs": {
+      "type": "why-choose-us",
+      "items": [
+        {
+          "id": "quality",
+          "icon": "shield-check",
+          "title": "Uncompromising Quality Standards",
+          "description": "We maintain rigorous quality control processes and adhere to international manufacturing standards to ensure exceptional product performance."
+        },
+        {
+          "id": "experience",
+          "icon": "clock",
+          "title": "7+ Years of Manufacturing Expertise",
+          "description": "Our extensive experience translates into deep technical knowledge and consistently superior manufacturing solutions."
+        },
+        {
+          "id": "technology",
+          "icon": "cpu",
+          "title": "Advanced Manufacturing Technology",
+          "description": "Leveraging cutting-edge laser writing and precision manufacturing equipment to deliver innovative solutions."
+        },
+        {
+          "id": "customization",
+          "icon": "settings",
+          "title": "Tailored Manufacturing Solutions",
+          "description": "Flexible approach to meet unique client requirements with comprehensive customization capabilities."
+        }
+      ],
+      "title": "Why Choose RK Enterprise",
+      "enabled": true,
+      "subtitle": "Your trusted partner in precision manufacturing"
+    },
+    "aboutusintro": {
+      "type": "about-us-intro",
+      "image": "https://images.unsplash.com/photo-1517048676732-d65bc9c4c4e1",
+      "title": "About RK Enterprise",
+      "enabled": true,
+      "subtitle": "Precision Manufacturing Specialists",
+      "highlights": [
+        "ISO 9001:2015 Certified",
+        "250+ Product Variants",
+        "15+ States Served",
+        "Advanced Laser Writing Technology",
+        "Custom Manufacturing Solutions"
+      ],
+      "description": "Founded in 2016, RK Enterprise has established itself as a leading manufacturer of specialized door and window components. We combine advanced manufacturing technologies with precision engineering to deliver high-quality, customized solutions across multiple industries."
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "items": [
+        {
+          "id": "client-1",
+          "name": "Rajesh Kumar",
+          "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a",
+          "rating": 5,
+          "company": "BuildTech Solutions",
+          "content": "RK Enterprise has been our go-to manufacturer for precision door components. Their quality and attention to detail are truly exceptional.",
+          "designation": "Procurement Manager"
+        },
+        {
+          "id": "client-2",
+          "name": "Priya Sharma",
+          "image": "https://images.unsplash.com/photo-1573496359394-025c7bea9c16",
+          "rating": 5,
+          "company": "AutoComponents India",
+          "content": "Incredible customization capabilities and consistently reliable manufacturing. They understand our complex requirements perfectly.",
+          "designation": "Operations Director"
+        }
+      ],
+      "title": "Client Testimonials",
+      "enabled": true,
+      "subtitle": "Trusted by industry leaders across multiple sectors"
     }
   }
 }
