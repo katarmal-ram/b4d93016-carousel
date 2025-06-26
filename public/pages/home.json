@@ -10,7 +10,7 @@
           "secondaryAction": "/about"
         },
         "title": "Precision Manufacturing of Superior Door Components",
-        "subtitle": "Delivering Quality Door Parts with 7 Years of Expert Craftsmanship",
+        "subtitle": "Delivering Quality Door Parts for 7 Years of Trusted Excellence",
         "backgroundImage": "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e"
       },
       {
@@ -27,7 +27,7 @@
       {
         "cta": {
           "primary": "Start Your Project",
-          "secondary": "Request Quote",
+          "secondary": "Call Now",
           "primaryAction": "/contact",
           "secondaryAction": "tel:+918888888888"
         },
@@ -40,20 +40,20 @@
   },
   "meta": {
     "title": "RK Enterprise - Door Parts Manufacturing | Precision Solutions",
-    "description": "Leading manufacturer of custom door parts and components with advanced laser writing and precision manufacturing techniques."
+    "description": "Leading manufacturer of custom door parts and components with 7 years of expert manufacturing experience and innovative laser writing services."
   },
   "sections": {
     "cta": {
       "type": "cta",
       "title": "Ready to Get Started?",
       "enabled": true,
-      "subtitle": "Transform your project with our expert door component manufacturing solutions",
+      "subtitle": "Transform your project with our precision manufacturing solutions and expert door component services",
       "primaryCTA": {
         "text": "View Products",
         "action": "/products"
       },
       "secondaryCTA": {
-        "text": "Contact Now",
+        "text": "Contact Us",
         "action": "/contact"
       }
     },
@@ -62,33 +62,33 @@
       "items": [
         {
           "id": "minimum-order",
-          "answer": "We accommodate orders from small batches to large-scale production, with flexible minimum order quantities tailored to your specific needs.",
+          "answer": "We accommodate orders from small batches to large-scale manufacturing, with flexible minimum order quantities tailored to your specific needs.",
           "question": "What is your minimum order quantity?"
         },
         {
           "id": "lead-time",
-          "answer": "Standard production times range from 7-21 days depending on complexity and order volume, with expedited options available for urgent requirements.",
+          "answer": "Standard production lead times range from 7-21 days depending on complexity and order volume, with expedited options available for urgent requirements.",
           "question": "What are your typical production lead times?"
         },
         {
           "id": "quality",
-          "answer": "We maintain rigorous quality control processes, including ISO-standard inspections, precision measurements, and comprehensive testing for every component.",
+          "answer": "We maintain rigorous quality control processes, including precision measurements, material testing, and comprehensive inspection at every manufacturing stage.",
           "question": "How do you ensure product quality?"
         },
         {
           "id": "customization",
-          "answer": "Absolutely! We specialize in custom laser writing and tailored manufacturing solutions to meet unique client specifications.",
-          "question": "Can you handle custom design requirements?"
+          "answer": "Yes, we specialize in custom laser writing and personalized door component manufacturing to meet unique client specifications and requirements.",
+          "question": "Do you offer custom door part designs?"
         },
         {
           "id": "materials",
-          "answer": "We work with various materials including aluminum, steel, brass, and specialized alloys for door and window component manufacturing.",
+          "answer": "We work with various materials including aluminum, steel, brass, and specialized alloys to create high-performance door and window components.",
           "question": "What materials do you work with?"
         }
       ],
       "title": "Frequently Asked Questions",
       "enabled": true,
-      "subtitle": "Get quick answers about our manufacturing capabilities and services"
+      "subtitle": "Get quick answers about our manufacturing services and capabilities"
     },
     "stats": {
       "type": "stats",
@@ -122,30 +122,30 @@
         {
           "id": "construction",
           "name": "Construction",
-          "image": "https://images.unsplash.com/photo-1534275288878-f0a62d63dad9",
+          "image": "https://images.unsplash.com/photo-1534275288886-9b0e1d0f66f9",
           "description": "Specialized door and window component solutions for residential and commercial construction projects",
           "applications": [
             "Architectural Door Frames",
             "Window Mounting Brackets",
-            "Precision Alignment Components",
-            "Structural Connectors"
+            "Structural Connectors",
+            "Custom Mounting Solutions"
           ]
         },
         {
-          "id": "automotive",
-          "name": "Automotive",
-          "image": "https://images.unsplash.com/photo-1511407397940-d8bcec3f9dc7",
-          "description": "High-precision manufacturing for automotive door and window system components",
+          "id": "manufacturing",
+          "name": "Manufacturing",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "description": "Precision-engineered components for industrial manufacturing and equipment integration",
           "applications": [
-            "Door Hinge Mechanisms",
-            "Window Seal Brackets",
-            "Mounting Plates",
-            "Precision Alignment Systems"
+            "Machine Frame Components",
+            "Precision Mounting Plates",
+            "Custom Fabricated Parts",
+            "Laser-Marked Identification Components"
           ]
         }
       ],
       "subtitle": "Comprehensive manufacturing solutions across multiple sectors",
-      "description": "RK Enterprise delivers specialized manufacturing solutions with precision engineering and advanced technological capabilities across diverse industrial sectors."
+      "description": "RK Enterprise delivers high-quality door and window components with precision engineering and advanced manufacturing techniques."
     },
     "whyChooseUs": {
       "type": "why-choose-us",
@@ -154,45 +154,45 @@
           "id": "quality",
           "icon": "shield-check",
           "title": "Uncompromising Quality Standards",
-          "description": "We maintain rigorous quality control processes and adhere to international manufacturing standards to ensure exceptional product performance."
+          "description": "We maintain strict quality control processes and adhere to international manufacturing standards to ensure superior product performance."
         },
         {
           "id": "experience",
           "icon": "clock",
-          "title": "7+ Years of Manufacturing Expertise",
-          "description": "Our extensive experience translates into deep technical knowledge and consistently superior manufacturing solutions."
+          "title": "7 Years of Manufacturing Expertise",
+          "description": "Our extensive experience enables us to deliver innovative solutions and consistently meet complex manufacturing requirements."
         },
         {
           "id": "technology",
           "icon": "cpu",
           "title": "Advanced Manufacturing Technology",
-          "description": "Leveraging cutting-edge laser writing and precision manufacturing equipment to deliver innovative solutions."
+          "description": "Utilizing state-of-the-art laser writing and precision manufacturing equipment to create exceptional door and window components."
         },
         {
           "id": "customization",
           "icon": "settings",
           "title": "Tailored Manufacturing Solutions",
-          "description": "Flexible approach to meet unique client requirements with comprehensive customization capabilities."
+          "description": "Offering flexible customization options to meet unique client specifications and project requirements."
         }
       ],
       "title": "Why Choose RK Enterprise",
       "enabled": true,
-      "subtitle": "Your trusted partner in precision manufacturing"
+      "subtitle": "Your trusted partner in precision manufacturing solutions"
     },
     "aboutusintro": {
       "type": "about-us-intro",
-      "image": "https://images.unsplash.com/photo-1517048676732-d65bc9c4c4e1",
+      "image": "https://images.unsplash.com/photo-1517048676732-d65bc9c4f587",
       "title": "About RK Enterprise",
       "enabled": true,
-      "subtitle": "Precision Manufacturing Specialists",
+      "subtitle": "Innovative Manufacturing Solutions for Door and Window Components",
       "highlights": [
         "ISO 9001:2015 Certified",
         "250+ Product Variants",
         "15+ States Served",
         "Advanced Laser Writing Technology",
-        "Custom Manufacturing Solutions"
+        "Custom Manufacturing Capabilities"
       ],
-      "description": "Founded in 2016, RK Enterprise has established itself as a leading manufacturer of specialized door and window components. We combine advanced manufacturing technologies with precision engineering to deliver high-quality, customized solutions across multiple industries."
+      "description": "Founded in 2016, RK Enterprise has been a leading manufacturer of specialized door and window components. We combine cutting-edge technology with precision engineering to deliver high-quality solutions across multiple industries. Our commitment to innovation and customer satisfaction drives our continuous growth and excellence."
     },
     "testimonials": {
       "type": "testimonials",
@@ -203,7 +203,7 @@
           "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a",
           "rating": 5,
           "company": "BuildTech Solutions",
-          "content": "RK Enterprise has been our go-to manufacturer for precision door components. Their quality and attention to detail are truly exceptional.",
+          "content": "RK Enterprise has been our go-to manufacturer for door components. Their precision and quality are unmatched in the industry.",
           "designation": "Procurement Manager"
         },
         {
@@ -211,14 +211,14 @@
           "name": "Priya Sharma",
           "image": "https://images.unsplash.com/photo-1573496359394-025c7bea9c16",
           "rating": 5,
-          "company": "AutoComponents India",
-          "content": "Incredible customization capabilities and consistently reliable manufacturing. They understand our complex requirements perfectly.",
-          "designation": "Operations Director"
+          "company": "Modern Constructions",
+          "content": "Exceptional customer service and remarkable attention to detail. Their custom manufacturing solutions have significantly improved our project efficiency.",
+          "designation": "Project Director"
         }
       ],
       "title": "Client Testimonials",
       "enabled": true,
-      "subtitle": "Trusted by industry leaders across multiple sectors"
+      "subtitle": "Trusted by industry leaders for precision and quality"
     }
   }
 }
